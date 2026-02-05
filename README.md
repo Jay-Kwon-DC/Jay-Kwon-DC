@@ -1,5 +1,6 @@
-## Hi there 👋
+## 안녕하세요 👋
 
+### 현재 한성대학교 컴퓨터공학과 3학년 재학중입니다.
 <!--
 **Jay-Kwon-DC/Jay-Kwon-DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
